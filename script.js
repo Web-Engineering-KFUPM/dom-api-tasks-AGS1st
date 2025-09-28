@@ -19,7 +19,7 @@ inside the <p> element with id="t1-msg".
 💡 Hint:
 document.getElementById("t1-msg").innerHTML = "Hello, World!";
 */
- 
+ await document.getElementsById("t1-msg").innerHTML = "hello, world"
 
 /*  
 =======================================
